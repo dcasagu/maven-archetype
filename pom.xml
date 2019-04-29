@@ -30,7 +30,7 @@
 
   <groupId>org.apache.maven.archetype</groupId>
   <artifactId>maven-archetype</artifactId>
-  <version>3.0.2-SNAPSHOT</version>
+  <version>3.0.2-TECHEDGE</version>
   <packaging>pom</packaging>
 
   <name>Maven Archetype</name>
@@ -52,7 +52,7 @@
 
   <scm>
    	<developerConnection>scm:git:https://github.com/dcasagu/maven-archetype.git</developerConnection>
-	<tag>V${project.version}</tag>
+	<tag>maven-archetype-3.0.2-TECHEDGE</tag>
   </scm>
   <issueManagement>
     <system>jira</system>
